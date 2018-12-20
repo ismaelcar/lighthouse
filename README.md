@@ -1,4 +1,4 @@
-# Lighthouse with RGB led for Arduino
+# Arduino Lighthouse with RGB led
 
 Lighthouse simulation using an RGB led. 
 
