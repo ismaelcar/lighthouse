@@ -1,5 +1,5 @@
 
-byte ledr = 11;                   // which pin LED is connected to MUST USE PWM PIN
+byte ledr = 11;                   // which pin LED is connected to
 byte ledg = 10;
 byte ledb = 9;
 
